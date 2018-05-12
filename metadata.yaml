@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35564'
     url: http://www.gutenberg.org/2009/agents/35564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31931#La-politique-du-Paraguay--13-Identit--de-cette-politique-avec-celle-de-la-France-et-de-la-Gra_
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2010-04-09'
 gutenberg_type: Text
