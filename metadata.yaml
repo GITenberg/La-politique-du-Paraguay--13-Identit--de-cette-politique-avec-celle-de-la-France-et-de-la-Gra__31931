@@ -1,0 +1,31 @@
+_repo: La-politique-du-Paraguay--13-Identit--de-cette-politique-avec-celle-de-la-France-et-de-la-Gra__31931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Poëpe, Claude de
+    aliases:
+    - Poepe, Claude de la
+    - Poëpe, Claude de la
+    gutenberg_agent_id: '35564'
+    url: http://www.gutenberg.org/2009/agents/35564
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2010-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31931'
+  lccn: '03022317'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paraguayan War, 1865-1870'
+- !lcsh 'Paraguay -- Foreign relations'
+- !lcc 'F2661'
+title: "La politique du Paraguay\r\nIdentité de cette politique avec celle de la France\
+  \ et de la Grande-Bretagne dans le Rio de La Plata"
+url: http://www.gutenberg.org/ebooks/31931
